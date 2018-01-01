@@ -48,7 +48,6 @@ public class PlayerController : MonoBehaviour {
         rb.AddForce (transform.forward * z * speed);
         rb.AddForce (transform.right * x * speed);
         //anim.speed = Math.Min(1.0f, rb.velocity.magnitude / 4);
-        Debug.Log(rb.velocity.magnitude);
         anim.SetFloat(animSpeedHash, rb.velocity.magnitude * rotateAngle);
     }
 
