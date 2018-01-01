@@ -13,6 +13,7 @@ ModelImporter:
     100010: Right Eye
     100012: Right Leg
     100014: //RootNode
+    100016: Tail
     400000: Box
     400002: Left Eye
     400004: Left Leg
@@ -21,6 +22,7 @@ ModelImporter:
     400010: Right Eye
     400012: Right Leg
     400014: //RootNode
+    400016: Tail
     2100000: Leg
     2100002: Head
     2100004: Right Eye
@@ -33,6 +35,7 @@ ModelImporter:
     2300008: Nostrils
     2300010: Right Eye
     2300012: Right Leg
+    2300014: Tail
     3300000: Box
     3300002: Left Eye
     3300004: Left Leg
@@ -40,6 +43,7 @@ ModelImporter:
     3300008: Nostrils
     3300010: Right Eye
     3300012: Right Leg
+    3300014: Tail
     4300000: Left Leg
     4300002: Box
     4300004: Right Leg
@@ -47,6 +51,7 @@ ModelImporter:
     4300008: Left Eye
     4300010: Mouth
     4300012: Nostrils
+    4300014: Tail
     7400000: Base stack
     9500000: //RootNode
   externalObjects: {}
