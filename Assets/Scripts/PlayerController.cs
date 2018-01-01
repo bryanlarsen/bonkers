@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour {
             other.gameObject.SetActive(false);
             count = count + 1;
             countText.text = "Count: " + count.ToString();
-            if (count >= 2) {
+            if (count >= 9) {
                 winText.text = "You Win!";
                 anim.speed = 0.1f;
                 anim.SetTrigger("Win");
